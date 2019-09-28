@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: 0px;
+}
+
+img{
+  border: 0px;
+}
+
+ul, ol{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+
+}
+
+.view_customize_table{
+
+}
+
+.view_customize_table tr{
+
+}
+
+.view_customize_table tr td{
+
+}
+
+.view_customize_table tr td:first-child{
+    width: 28%;
+    font-weight: 600;
+    text-align: right;
+}
+.view_customize_table tr td:last-child{
+    width: 70%;
+    font-weight: 400;
+    text-align: left;
+}
+
+.custom_label{
+    text-align: right;
+    margin-right: -15px;
+    font-weight: 600;
+}
